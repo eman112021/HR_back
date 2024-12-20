@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024.core\\model\\bank_branche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|solutionrelative:hr_2024.core\\model\\bank_branche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024.core\\model\\management_sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|solutionrelative:hr_2024.core\\model\\management_sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024.core\\model\\generalmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|solutionrelative:hr_2024.core\\model\\generalmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024.core\\model\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|solutionrelative:hr_2024.core\\model\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88187402-C64D-4FC6-AA8F-A6AFF5D155B9}|HR_2024\\HR_2024.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024\\controllers\\vacationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88187402-C64D-4FC6-AA8F-A6AFF5D155B9}|HR_2024\\HR_2024.csproj|solutionrelative:hr_2024\\controllers\\vacationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88187402-C64D-4FC6-AA8F-A6AFF5D155B9}|HR_2024\\HR_2024.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024\\controllers\\management_subcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88187402-C64D-4FC6-AA8F-A6AFF5D155B9}|HR_2024\\HR_2024.csproj|solutionrelative:hr_2024\\controllers\\management_subcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024.core\\model\\dto\\management_sub_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|solutionrelative:hr_2024.core\\model\\dto\\management_sub_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88187402-C64D-4FC6-AA8F-A6AFF5D155B9}|HR_2024\\HR_2024.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024\\controllers\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88187402-C64D-4FC6-AA8F-A6AFF5D155B9}|HR_2024\\HR_2024.csproj|solutionrelative:hr_2024\\controllers\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88187402-C64D-4FC6-AA8F-A6AFF5D155B9}|HR_2024\\HR_2024.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88187402-C64D-4FC6-AA8F-A6AFF5D155B9}|HR_2024\\HR_2024.csproj|solutionrelative:hr_2024\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88187402-C64D-4FC6-AA8F-A6AFF5D155B9}|HR_2024\\HR_2024.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024\\controllers\\helpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88187402-C64D-4FC6-AA8F-A6AFF5D155B9}|HR_2024\\HR_2024.csproj|solutionrelative:hr_2024\\controllers\\helpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024.core\\interface\\ibaserep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|solutionrelative:hr_2024.core\\interface\\ibaserep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B8E19D-CD02-41EC-A23D-04CFCD752600}|HR_2024.Ef\\HR_2024.Ef.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024.ef\\repositories\\baserep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B8E19D-CD02-41EC-A23D-04CFCD752600}|HR_2024.Ef\\HR_2024.Ef.csproj|solutionrelative:hr_2024.ef\\repositories\\baserep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024.core\\model\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|solutionrelative:hr_2024.core\\model\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|solutionrelative:hr_2024.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024.core\\model\\staff_qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|solutionrelative:hr_2024.core\\model\\staff_qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|c:\\users\\hp\\desktop\\hr_2024\\hr_2024\\hr_2024.core\\model\\management_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168F86C0-67D6-4654-92D0-5E71349460C3}|HR_2024.Core\\HR_2024.Core.csproj|solutionrelative:hr_2024.core\\model\\management_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneralManagement.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\GeneralManagement.cs",
+              "RelativeDocumentMoniker": "HR_2024.Core\\Model\\GeneralManagement.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\GeneralManagement.cs",
+              "RelativeToolTip": "HR_2024.Core\\Model\\GeneralManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:43:44.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank_branche.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Bank_branche.cs",
+              "RelativeDocumentMoniker": "HR_2024.Core\\Model\\Bank_branche.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Bank_branche.cs*",
+              "RelativeToolTip": "HR_2024.Core\\Model\\Bank_branche.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:30:33.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Bank.cs",
+              "RelativeDocumentMoniker": "HR_2024.Core\\Model\\Bank.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Bank.cs",
+              "RelativeToolTip": "HR_2024.Core\\Model\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:27:51.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024\\Controllers\\ManagementController.cs",
+              "RelativeDocumentMoniker": "HR_2024\\Controllers\\ManagementController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024\\Controllers\\ManagementController.cs",
+              "RelativeToolTip": "HR_2024\\Controllers\\ManagementController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:16:38.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VacationsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024\\Controllers\\VacationsController.cs",
+              "RelativeDocumentMoniker": "HR_2024\\Controllers\\VacationsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024\\Controllers\\VacationsController.cs",
+              "RelativeToolTip": "HR_2024\\Controllers\\VacationsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwEMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:07:05.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Management_Sub.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Management_Sub.cs",
+              "RelativeDocumentMoniker": "HR_2024.Core\\Model\\Management_Sub.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Management_Sub.cs",
+              "RelativeToolTip": "HR_2024.Core\\Model\\Management_Sub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:21:28.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "HR_2024\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "HR_2024\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAcwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:16:16.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Management_sub_dto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Dto\\Management_sub_dto.cs",
+              "RelativeDocumentMoniker": "HR_2024.Core\\Model\\Dto\\Management_sub_dto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Dto\\Management_sub_dto.cs",
+              "RelativeToolTip": "HR_2024.Core\\Model\\Dto\\Management_sub_dto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:56:13.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Management_subController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024\\Controllers\\Management_subController.cs",
+              "RelativeDocumentMoniker": "HR_2024\\Controllers\\Management_subController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024\\Controllers\\Management_subController.cs",
+              "RelativeToolTip": "HR_2024\\Controllers\\Management_subController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:44:29.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HelpController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024\\Controllers\\HelpController.cs",
+              "RelativeDocumentMoniker": "HR_2024\\Controllers\\HelpController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024\\Controllers\\HelpController.cs",
+              "RelativeToolTip": "HR_2024\\Controllers\\HelpController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:22:05.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IbaseRep.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Interface\\IbaseRep.cs",
+              "RelativeDocumentMoniker": "HR_2024.Core\\Interface\\IbaseRep.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Interface\\IbaseRep.cs",
+              "RelativeToolTip": "HR_2024.Core\\Interface\\IbaseRep.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBwAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:39:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseRep.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Ef\\Repositories\\BaseRep.cs",
+              "RelativeDocumentMoniker": "HR_2024.Ef\\Repositories\\BaseRep.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Ef\\Repositories\\BaseRep.cs",
+              "RelativeToolTip": "HR_2024.Ef\\Repositories\\BaseRep.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:09:34.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Evaluation.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Evaluation.cs",
+              "RelativeDocumentMoniker": "HR_2024.Core\\Model\\Evaluation.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Evaluation.cs",
+              "RelativeToolTip": "HR_2024.Core\\Model\\Evaluation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:29:41.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "HR_2024.Core\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\IUnitOfWork.cs",
+              "RelativeToolTip": "HR_2024.Core\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:09:18.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Staff_qualification.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Staff_qualification.cs",
+              "RelativeDocumentMoniker": "HR_2024.Core\\Model\\Staff_qualification.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Staff_qualification.cs",
+              "RelativeToolTip": "HR_2024.Core\\Model\\Staff_qualification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:33:04.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Management_Unit.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Management_Unit.cs",
+              "RelativeDocumentMoniker": "HR_2024.Core\\Model\\Management_Unit.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\HR_2024\\HR_2024\\HR_2024.Core\\Model\\Management_Unit.cs",
+              "RelativeToolTip": "HR_2024.Core\\Model\\Management_Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:59:38.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

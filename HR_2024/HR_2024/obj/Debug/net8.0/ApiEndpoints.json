@@ -1,0 +1,431 @@
+[
+  {
+    "ContainingType": "HR_2024.Controllers.DepartmentController",
+    "Method": "add_department",
+    "RelativePath": "api/Department",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "department_dto",
+        "Type": "HR_2024.Core.Model.Dto.Department_dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.DepartmentController",
+    "Method": "update_department",
+    "RelativePath": "api/Department",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "department_dto",
+        "Type": "HR_2024.Core.Model.Dto.Department_dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.DepartmentController",
+    "Method": "delete_department",
+    "RelativePath": "api/Department",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "department_dto",
+        "Type": "HR_2024.Core.Model.Dto.Department_dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.DepartmentController",
+    "Method": "get_all",
+    "RelativePath": "api/Department/get_all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.DepartmentController",
+    "Method": "get_department",
+    "RelativePath": "api/Department/get_department",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.EvaluationController",
+    "Method": "delete_evaluation",
+    "RelativePath": "api/Evaluation",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "evaluation",
+        "Type": "HR_2024.Core.Model.Evaluation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.EvaluationController",
+    "Method": "add_evaluation",
+    "RelativePath": "api/Evaluation/add_evaluation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eval",
+        "Type": "HR_2024.Core.Model.Evaluation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.EvaluationController",
+    "Method": "edit_evaluation",
+    "RelativePath": "api/Evaluation/edit_evaluation",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "evaluation",
+        "Type": "HR_2024.Core.Model.Evaluation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.EvaluationController",
+    "Method": "get_evaluation",
+    "RelativePath": "api/Evaluation/get_evaluation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id_emp",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.HelpController",
+    "Method": "get",
+    "RelativePath": "api/Help",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.HelpController",
+    "Method": "add_help",
+    "RelativePath": "api/Help/add_help",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "help",
+        "Type": "HR_2024.Core.Model.Tb_Help",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.HelpController",
+    "Method": "delete_help",
+    "RelativePath": "api/Help/delete_help",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "help",
+        "Type": "HR_2024.Core.Model.Tb_Help",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.HelpController",
+    "Method": "update_help",
+    "RelativePath": "api/Help/update_help",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "help",
+        "Type": "HR_2024.Core.Model.Tb_Help",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.ManagementController",
+    "Method": "update_management",
+    "RelativePath": "api/Management",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "management_dto",
+        "Type": "HR_2024.Core.Model.Dto.GeneralManagement_dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.Management_subController",
+    "Method": "add_Management_sub",
+    "RelativePath": "api/Management_sub/add_Management_sub",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "management_sub_dto",
+        "Type": "HR_2024.Core.Model.Dto.Management_sub_dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.Management_subController",
+    "Method": "delete_management_sub",
+    "RelativePath": "api/Management_sub/delete_management_sub",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "management_Sub_Dto",
+        "Type": "HR_2024.Core.Model.Dto.Management_sub_dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.Management_subController",
+    "Method": "get_all",
+    "RelativePath": "api/Management_sub/get_all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.Management_subController",
+    "Method": "get_sub",
+    "RelativePath": "api/Management_sub/get_sub",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ii",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.Management_subController",
+    "Method": "update_management_sub",
+    "RelativePath": "api/Management_sub/update_management_sub",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "management_Sub_Dto",
+        "Type": "HR_2024.Core.Model.Dto.Management_sub_dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.ManagementController",
+    "Method": "add_Management",
+    "RelativePath": "api/Management/add_Management",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "management_dto",
+        "Type": "HR_2024.Core.Model.Dto.GeneralManagement_dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.ManagementController",
+    "Method": "delete_management",
+    "RelativePath": "api/Management/delete_management",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "management_dto",
+        "Type": "HR_2024.Core.Model.Dto.GeneralManagement_dto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.ManagementController",
+    "Method": "getall",
+    "RelativePath": "api/Management/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[HR_2024.Core.Model.GeneralManagement, HR_2024.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.VacationsController",
+    "Method": "Get",
+    "RelativePath": "api/Vacations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id_emp",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.VacationsController",
+    "Method": "edit_vacation",
+    "RelativePath": "api/Vacations",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vacation",
+        "Type": "HR_2024.Core.Model.Vacation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.VacationsController",
+    "Method": "add_vacation",
+    "RelativePath": "api/Vacations/add_vacation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vacation",
+        "Type": "HR_2024.Core.Model.Vacation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.VacationsController",
+    "Method": "delete_vacation",
+    "RelativePath": "api/Vacations/delete_vacation",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vacation",
+        "Type": "HR_2024.Core.Model.Vacation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR_2024.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HR_2024.WeatherForecast, HR_2024, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

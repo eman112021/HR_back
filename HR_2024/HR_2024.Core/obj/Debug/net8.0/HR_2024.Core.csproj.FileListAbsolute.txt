@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\obj\Debug\net8.0\HR_2024.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\obj\Debug\net8.0\HR_2024.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\obj\Debug\net8.0\HR_2024.Core.AssemblyInfo.cs
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\obj\Debug\net8.0\HR_2024.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\bin\Debug\net8.0\HR_2024.Core.deps.json
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\bin\Debug\net8.0\HR_2024.Core.dll
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\bin\Debug\net8.0\HR_2024.Core.pdb
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\obj\Debug\net8.0\HR_2024.Core.dll
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\obj\Debug\net8.0\refint\HR_2024.Core.dll
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\obj\Debug\net8.0\HR_2024.Core.pdb
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\obj\Debug\net8.0\ref\HR_2024.Core.dll
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\obj\Debug\net8.0\HR_2024.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\HR_2024\HR_2024\HR_2024.Core\obj\Debug\net8.0\HR_2024.Core.sourcelink.json
